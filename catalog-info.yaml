@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: ndennis-fanduel/backstage-test-1
 spec:
   type: service
-  lifecycle: unknown
+  lifecycle: experimental
   owner: guests
