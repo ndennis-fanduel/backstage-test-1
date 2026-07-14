@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test-1
+  annotations:
+    github.com/project-slug: ndennis-fanduel/backstage-test-1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
